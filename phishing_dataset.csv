@@ -1,0 +1,7 @@
+URL,Label
+http://www.google.com,0
+http://www.phishing.com,1
+http://www.facebook.com,0
+http://www.fakebank.com,1
+http://www.youtube.com,0
+http://www.malicious.com,1
