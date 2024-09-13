@@ -1,4 +1,5 @@
-Flask==2.2.2
+Flask==2.3.3
+Werkzeug==2.3.0
 uvicorn
 pandas>=1.5.0
 scikit-learn==1.2.2
