@@ -1,6 +1,6 @@
 Flask==2.2.2
 uvicorn
-pandas==1.3.0
+pandas>=1.5.0
 scikit-learn==1.2.2
 joblib==1.3.1
 fastapi
